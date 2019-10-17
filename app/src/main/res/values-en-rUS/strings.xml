@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MisLugaresBeatrizApp</string>
+    <string name="accion_mostrar">show</string>
+    <string name="accion_preferencias">preferences</string>
+    <string name="accion_acerca_de">about </string>
+    <string name="accion_salir">exit</string>
+    <string name="tituloAplicacion">MisLugaresBeatriz</string>
+    <string name="etacercade">ASTEROID APPLICATION: Hi I\'m Beatriz Feijoo Tain. This program has been developed as an example to demonstrate how new activities can be launched from the main activity.</string>
+    <string name="MacercaDe">About</string>
+    <string name="action_settings">Settings</string>
+</resources>

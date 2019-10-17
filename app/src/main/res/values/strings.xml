@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisLugaresBeatrizApp</string>
+    <string name="accion_mostrar">mostrar</string>
+    <string name="accion_preferencias">preferencias</string>
+    <string name="accion_acerca_de">acerca de</string>
+    <string name="accion_salir">salir</string>
+    <string name="tituloAplicacion">MisLugaresBeatriz</string>
+    <string name="etacercade">APLICACIÓN ASTEROIDES:Hola soy Beatriz Feijoo Tain. Este programa ha sido desarrollado com o ejemplo para demostrar cómo se pueden lanzar nuevas actividades desde la actividad principal</string>
+    <string name="MacercaDe">Acerca De</string>
+    <string name="action_settings">Configuracion</string>
+</resources>
